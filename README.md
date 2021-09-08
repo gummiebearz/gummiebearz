@@ -2,7 +2,7 @@
 ### :speech_balloon: Something about me
 Call me gumball. :whale:
 
-:stars: Each code piece that I have written is an adventure because some bugs are deep within which are not easy to spot with bare eye, giving me a headache sometimes. I remember how I had to imagine the code flow and debug it in my head, even when I'm in bed (which I am still doing now). And I think the most indescribable feeling (possibly to all devs) is when the program works after hours and hours of debugging. 
+:stars: I've been writing a lot projects ever I since I picked up programming. I've learnt a lot from them through bugs I encountered, which are not easy to find with bare eyes, and they give me a headache sometimes. I've always tried to fix the errors to the best of my ability or it may lead to (an)other error(s). The most rewarding thing to me is that the program works after hours, and even days, of debugging.
 
 :stars: The best decision I have ever made has been switching to **Linux** (another OS), **Neovim** (another self-configured IDE) and **GDB** (Terminal debugging), though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me ❤️
 
