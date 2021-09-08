@@ -2,7 +2,7 @@
 ### :speech_balloon: Something about me
 Call me gumball. :whale:
 
-:stars: <div style="font-size:12px">Each code piece that I have written is an adventure because some bugs are deep within which are not easy to spot with bare eye, giving me a headache sometimes. I remember how I had to imagine the code flow and debug it in my head (which I am still doing now). With the help of GDB, I am able to trace the errors more quickly and more efficiently. Problem solved, feeling rewarded.</div>
+:stars: <div style="font-size:8px">Each code piece that I have written is an adventure because some bugs are deep within which are not easy to spot with bare eye, giving me a headache sometimes. I remember how I had to imagine the code flow and debug it in my head (which I am still doing now). With the help of GDB, I am able to trace the errors more quickly and more efficiently. Problem solved, feeling rewarded.</div>
 
 :stars: The best decision I have ever made has been switching to **Linux** (another OS), **Neovim** (another self-configured IDE) and **GDB** (Terminal debugging), though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me ❤️
 
