@@ -5,7 +5,7 @@ My name is Vivian and I go by Gumball as my nickname. :whale:
 Programming is enjoyable, and `bugs` :bug: make it even more interesting!
 
 ### :diamonds: What I've learnt
-<img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic"/>
+<img alt="ReactJS" src="https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=white&style=plastic" height=30 width=50/>
 
 
 ### :diamonds: Stats
