@@ -1,9 +1,12 @@
 # :wave: Hello there,
 ### :speech_balloon: Something about me
-My name is Vivian and I go by Gumball as my nickname. :whale:
+Call me gumball. :whale:
 
-Programming is enjoyable, and `bugs` :bug: make it even more interesting!
-<br/>
+Every code I write is an adventure because I stumble on many bugs, and some of them are challenging to fix. 
+
+
+## *Programming is enjoyable, and `bugs` :bug: make it even more interesting!*
+
 
 ### :diamonds: What I've learnt
 `Languages`
