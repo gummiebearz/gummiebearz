@@ -2,7 +2,7 @@
 ### :speech_balloon: Something about me
 Call me gumball. :whale:
 
-:stars: I've been writing a lot projects ever I since I picked up programming. I've learnt a lot from them through bugs I encountered, which are not easy to find with bare eyes, and they give me a headache sometimes. I've always tried to fix the errors to the best of my ability or it may lead to (an)other error(s). The most rewarding thing to me is that the program works after hours, and even days, of debugging.
+:stars: I've been writing a lot projects ever I since I picked up programming. I've learnt a lot from them through bugs I encountered, which are not easy to find with bare eyes, and they give me a headache sometimes. I've always tried to fix the errors to the best of my ability and as soon as possible. The most rewarding thing to me is that the program works after hours, and even days, of debugging.
 
 :stars: The best decision I have ever made has been switching to **Linux** (another OS), **Neovim** (another self-configured IDE) and **GDB** (Terminal debugging), though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me ❤️
 
