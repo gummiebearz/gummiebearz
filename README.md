@@ -6,7 +6,8 @@ Programming is enjoyable, and `bugs` :bug: make it even more interesting!
 <br/>
 
 ### :diamonds: What I've learnt
-> <img alt="React JS" src="https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=5ED3F3&color=262D3D&style=for-the-badge" />  <img alt="React JS" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=5ED3F3&color=262D3D&style=for-the-badge" />  <img alt="Node" src="https://img.shields.io/badge/-Node.js-61DAFB?logo=nodejs&logoColor=66A05A&color=262D3D&style=for-the-badge" /> 
+> <img alt="React JS" src="https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=5ED3F3&color=262D3D&style=for-the-badge" />  <img alt="React JS" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=5ED3F3&color=262D3D&style=for-the-badge" />  
+> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ### :diamonds: Stats
