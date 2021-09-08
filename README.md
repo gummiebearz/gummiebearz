@@ -3,7 +3,7 @@
 Call me gumball. :whale:
 
 Every code that I have written is an adventure because I have stumbled on many rocks, and some of them are challenging to step over. 
-I am glad that I, who have been so accustomed to using Windows, have decided to switch to a different OS (**Linux**) and IDE (**Neovim**), though using them was extremely painful at first. 
+I am glad that I, who have been so accustomed to using Windows, have decided to switch to a different OS (**Linux**) and IDE (**Neovim**), though using them was extremely painful at first. So far, it has been the right decision for me :stars:
 
 
 ## *Programming is enjoyable, and `bugs` :bug: make it even more interesting!*
