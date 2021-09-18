@@ -2,7 +2,7 @@
 ### :speech_balloon: Something about me
 Call me gumball. :whale:
 
-:stars: I've been writing a lot projects ever I since I picked up programming. I've learnt a lot from them through bugs I encountered, which are not easy to find with bare eyes, and they give me a headache sometimes. For me, the most rewarding moment is when the program works perfectly. The immense satisfaction knowing that it functions well can be quite addicting. ***"When you start something, finish it!"***
+:stars: For me, the most rewarding moment is when the program works perfectly. The immense satisfaction knowing that it functions well can be quite addicting. ***"When you start something, finish it!"***
 
 :stars: The best decision I have ever made was switching to **Linux**, **Neovim** and **GDB**, though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me ❤️
 
