@@ -4,7 +4,7 @@ Call me gumball. :whale:
 
 :stars: For me, the most rewarding moment is when the program works perfectly. The immense satisfaction knowing that it functions well can be quite addicting. ***"When you start something, finish it!"***
 
-:stars: The best decision I have ever made was switching to **Linux**, **Neovim** and **GDB**, though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me
+<!-- :stars: The best decision I have ever made was switching to **Linux**, **Neovim** and **GDB**, though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me -->
 
 
 ## *Programming is enjoyable, and `bugs` make it even more interesting!*
@@ -25,6 +25,6 @@ Call me gumball. :whale:
 ![Vivian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumball09&show_icons=true&theme=onedark)
 -->
 
-### :charts_with_upwards_trends Last week Coding Stats
+### :chart_with_upwards_trend Last week Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
