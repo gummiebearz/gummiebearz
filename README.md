@@ -20,5 +20,11 @@ Call me gumball. :whale:
 ` Testings & Others`
 > ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) &emsp; ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) &emsp; ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) &emsp; ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &emsp; ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &emsp; ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+<!--
 ### :diamonds: Stats
 ![Vivian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumball09&show_icons=true&theme=onedark)
+-->
+
+### :charts_with_upwards_trends Last week Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
