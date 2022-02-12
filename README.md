@@ -27,4 +27,80 @@ Call me gumball. :whale:
 
 ## :chart_with_upwards_trend: Last week Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 13 Contributions in the Year 2022
+ > 
+> 📦 159.7 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 46 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
+🌆 Daytime    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.79% 
+🌃 Evening    352 commits    ██████████████░░░░░░░░░░░   57.52% 
+🌙 Night      70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
+Tuesday      125 commits    █████░░░░░░░░░░░░░░░░░░░░   20.42% 
+Wednesday    88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
+Thursday     109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+Friday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
+Saturday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
+Sunday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Vancouver
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               37 repos            ███████████████░░░░░░░░░░   62.71% 
+HTML                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Handlebars               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
+Vim script               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/gumball09/gumball09/main/charts/bar_graph.png) 
+
+
+ Last Updated on 12/02/2022 23:52:16 UTC
 <!--END_SECTION:waka-->
