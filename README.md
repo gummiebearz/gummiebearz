@@ -25,6 +25,6 @@ Call me gumball. :whale:
 ![Vivian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumball09&show_icons=true&theme=onedark)
 -->
 
-### :chart_with_upwards_trend Last week Coding Stats
+## :chart_with_upwards_trend: Last week Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
