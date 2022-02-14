@@ -18,5 +18,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           COMMIT_MESSAGE: Update Coding Stats
-          SHOW_TITLE: false
-          SHOW_TIME: false
