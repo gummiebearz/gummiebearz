@@ -12,10 +12,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+<<<<<<< HEAD
 
           SHOW_LANGUAGE: "True"
             # SHOW_OS: "False" 
@@ -32,3 +33,7 @@ jobs:
             # SHOW_LANGUAGE_PER_REPO: "False"
             # SHOW_SHORT_INFO: "False"
             # SHOW_LOC_CHART: "False"
+=======
+          
+          COMMIT_MESSAGE: Update Coding Stats
+>>>>>>> c98c19a2a79e044aedfbfdc2f9504bc9c2a8e434
