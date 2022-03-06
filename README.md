@@ -27,8 +27,10 @@ Call me gumball. :whale:
 
 ## :chart_with_upwards_trend: Last week Coding Stats
 <!--START_SECTION:waka-->
+
 ```text
-Python   4 hrs 31 mins   ████████████████████████▓   98.49 % 
-Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python   19 mins         ████████████████████████▓   98.89 %
+Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
+
 <!--END_SECTION:waka-->
