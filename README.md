@@ -29,7 +29,11 @@ Call me gumball. :whale:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python     3 hrs 45 mins   ███████████████████████▒░   93.73 %
+Text       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+CSV        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
