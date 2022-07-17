@@ -30,7 +30,12 @@ Call me gumball. :whale:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java       11 hrs 33 mins  █████████████████████░░░░   83.65 %
+Python     1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+JSON       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
