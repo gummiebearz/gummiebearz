@@ -1,11 +1,12 @@
 # :wave: Hello there,
 ### :speech_balloon: Something about me
+<p align="center">
 Call me gumball. :whale:
 
 :stars: For me, the most rewarding moment is when the program works perfectly. The immense satisfaction knowing that it functions well can be quite addicting. ***"When you start something, finish it!"***
 
 <!-- :stars: The best decision I have ever made was switching to **Linux**, **Neovim** and **GDB**, though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me -->
-
+</p>
 
 ### *Programming is enjoyable, and `bugs` make it even more interesting!*
 
