@@ -6,7 +6,7 @@ Call me gumball. :whale:
 
 <!-- :stars: The best decision I have ever made was switching to **Linux**, **Neovim** and **GDB**, though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me -->
 <p align="center">
-### *Programming is enjoyable, and `bugs` make it even more interesting!*
+<h2>Programming is enjoyable, and `bugs` make it even more interesting!</h2>
 </p> 
 
 
