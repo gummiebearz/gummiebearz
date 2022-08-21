@@ -30,8 +30,12 @@ Call me gumball. :whale:
 <!--START_SECTION:waka-->
 
 ```text
-Java             1 hr 29 mins    ███████████████████▒░░░░░   77.77 %
-Other            16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+JavaScript   5 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.58 %
+CSS          5 hrs 40 mins   ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+TypeScript   3 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+HTML         2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
