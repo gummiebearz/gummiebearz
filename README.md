@@ -31,12 +31,12 @@ Call me gumball. :whale:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.58 %
-CSS          5 hrs 40 mins   ███████▓░░░░░░░░░░░░░░░░░   30.29 %
-TypeScript   3 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
-HTML         2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+JavaScript       7 hrs 46 mins   █████████▒░░░░░░░░░░░░░░░   37.06 %
+CSS              5 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+JSON             2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+TypeScript       1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+HTML             1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Git Config       30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
