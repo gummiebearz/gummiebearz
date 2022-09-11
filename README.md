@@ -31,7 +31,8 @@ Call me gumball. :whale:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java             11 mins         ████████████████████████▓   98.53 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
