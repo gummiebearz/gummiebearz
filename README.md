@@ -1,7 +1,10 @@
-## :wave: Hello there,
-#### :speech_balloon: Call me Gumball - my __[Portfolio](https://gumball.ai)__
+## :wave: Hello there, my name is Vivian
+#### Visit my __[Portfolio](https://gumball.ai)
+#### I am always open for collaboration on interesting projects
 
+<!--
 :stars: For me, the most rewarding moment is when the program works perfectly. The immense satisfaction knowing that it functions well can be quite addicting. ***"When you start something, finish it!"***
+-->
 
 <!-- :stars: The best decision I have ever made was switching to **Linux**, **Vim** and **GDB**, though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me -->
 
