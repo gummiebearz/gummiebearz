@@ -1,8 +1,8 @@
 ## Hello there :wave:, my name is Vivian
 #### Visit my __[Portfolio](https://gumball.ai)__
-> <h4 align="center">Programming is enjoyable, and 🐛 make it even more interesting!</h2>
-<b>I am always open for collaboration on interesting projects 💜<b><br/>
-<b>You can reach me at ✉️ [vivianpham090@gmail.com](mailto:vivianpham0904@gmail.com)<b>
+> <h4>Programming is enjoyable, and 🐛 make it even more interesting!</h2>
+<b>I am always open for collaboration on interesting projects 💜</b><br/>
+<b>You can reach me at ✉️ [vivianpham090@gmail.com](mailto:vivianpham0904@gmail.com)</b>
 
 
 <!--
