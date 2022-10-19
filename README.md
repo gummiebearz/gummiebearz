@@ -1,6 +1,5 @@
-# :wave: Hello there,
-### :speech_balloon: Something about me
-Call me gumball. :whale:
+## :wave: Hello there,
+#### :speech_balloon: Call me Gumball - my __[Portfolio](https://gumball.ai)__
 
 :stars: For me, the most rewarding moment is when the program works perfectly. The immense satisfaction knowing that it functions well can be quite addicting. ***"When you start something, finish it!"***
 
