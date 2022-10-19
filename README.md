@@ -1,7 +1,7 @@
 ## Hello there :wave:, my name is Vivian
 #### Visit my __[Portfolio](https://gumball.ai)__
-<b>I am always open for collaboration on interesting projects 💜<b>
-<b>You can reach me at ✉️ mailto:vivianpham0904@gmail.com<b>
+<b>I am always open for collaboration on interesting projects 💜<b>\n
+<b>You can reach me at ✉️ [vivianpham090@gmail.com](mailto:vivianpham0904@gmail.com)<b>
 
 
 <!--
