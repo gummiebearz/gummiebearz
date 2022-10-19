@@ -1,5 +1,5 @@
-## :wave: Hello there, my name is Vivian
-#### Visit my __[Portfolio](https://gumball.ai)
+# Hello there :wave:, my name is Vivian
+#### Visit my __[Portfolio](https://gumball.ai)__
 #### I am always open for collaboration on interesting projects
 
 <!--
