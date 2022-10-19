@@ -12,7 +12,7 @@
 <h3 align="center">Programming is enjoyable, and <i>bugs</i> make it even more interesting!</h2>
 
 
-### :diamonds: What I've learnt
+#### :diamonds: What I've learnt and utilized
 `Languages`
 > [![My Skills](https://skillicons.dev/icons?i=python,java,js,solidity,ts,html,css,c,cpp,graphql,md&theme=dark)](https://skillicons.dev)
 <!--
