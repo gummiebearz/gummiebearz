@@ -9,7 +9,7 @@
 
 <!-- :stars: The best decision I have ever made was switching to **Linux**, **Vim** and **GDB**, though using them was painful at first. I'm still gaining skills and knowledge about them, and still encounter issues; however, for a Windows person, this has been a life-changing experience for me -->
 <hr/>
-<h3 align="center">Programming is enjoyable, and <i>bugs</i> make it even more interesting!</h2>
+<h4 align="center">Programming is enjoyable, and <i>bugs</i> make it even more interesting!</h2>
 <hr/>
 
 
