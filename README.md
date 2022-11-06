@@ -47,8 +47,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   1 hr 38 mins    ████████████████████████░   96.35 %
-Text   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+YAML                       5 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.18 %
+Docker                     4 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 %
+JavaScript                 3 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
+Nginx configuration file   1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Java                       55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+JSON                       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
