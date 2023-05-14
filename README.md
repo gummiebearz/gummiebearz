@@ -47,7 +47,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 3 mins     █████████████████████████   100.00 %
+SQL              2 hrs 8 mins    ███████████████████████▒░   93.91 %
+GitIgnore file   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
