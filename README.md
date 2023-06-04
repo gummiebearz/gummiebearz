@@ -46,12 +46,12 @@
 ## :chart_with_upwards_trend: Last week Coding Stats
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   16 hrs 36 mins  ███████████████████▒░░░░░   76.99 %
-SQL          4 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```txt
+JavaScript   10 hrs 43 mins  ███████████████████▓░░░░░   78.58 %
+Markdown     1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+SQL          1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
