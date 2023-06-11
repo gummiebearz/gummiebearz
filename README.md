@@ -47,11 +47,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 hrs 43 mins  ███████████████████▓░░░░░   78.58 %
-Markdown     1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-SQL          1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
